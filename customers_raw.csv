@@ -1,0 +1,8 @@
+customer_id,customer_name,email,phone,city,state,country,status,_load_ts
+C001,John Smith,john@email.com,9876543210,Mumbai,Maharashtra,India,ACTIVE,2026-09-01 08:00:00
+C002,Priya Sharma,priya@email.com,9988776655,Pune,MH,India,Active,2026-09-01 08:05:00
+C002,Priya Sharma Updated,priya.sharma@email.com,9988776655,Pune,Maharashtra,India,ACTIVE,2026-09-02 09:00:00
+C003,Rahul Verma,rahul@email.com,9876543211,Delhi,Delhi,India,ACTIVE,2026-09-01 08:10:00
+C004,Anita Patel,,9876500000,Bengaluru,Karnataka,India,ACTIVE,2026-09-01 09:00:00
+C005,Amit Kumar,amit@email.com,INVALID,Mumbai,Maharashtra,India,INACTIVE,2026-09-01 10:00:00
+C007,Test User,test@email.com,1234567890,,Maharashtra,India,ACTIVE,2026-09-01 12:00:00

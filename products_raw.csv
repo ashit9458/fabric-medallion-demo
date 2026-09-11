@@ -1,0 +1,8 @@
+product_id,product_name,category,sub_category,unit_price,cost_price,status,_load_ts
+P001,Laptop Pro,Electronics,Laptop,75000,60000,ACTIVE,2026-09-01 08:00:00
+P002,Wireless Mouse,Electronics,Accessories,1200,700,ACTIVE,2026-09-01 08:00:00
+P002,Wireless Mouse Updated,Electronics,Accessories,1300,700,ACTIVE,2026-09-02 08:00:00
+P003,Office Chair,Furniture,Office,8500,5000,ACTIVE,2026-09-01 08:00:00
+P004,Keyboard,Electronics,Accessories,2500,1500,ACTIVE,2026-09-01 08:00:00
+P005,Monitor 27,Electronics,Monitor,18000,12000,ACTIVE,2026-09-01 08:00:00
+P006,Broken Product,Electronics,Accessories,abc,500,ACTIVE,2026-09-01 08:00:00

@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,campaign_date,region,spend,attributed_revenue,status,_load_ts
+M001,Diwali Launch,Google Ads,2026-09-01,Mumbai,50000,120000,ACTIVE,2026-09-01 18:00:00
+M002,Laptop Campaign,LinkedIn,2026-09-01,Pune,30000,90000,ACTIVE,2026-09-01 18:00:00
+M002,Laptop Campaign Updated,LinkedIn,2026-09-01,Pune,35000,95000,ACTIVE,2026-09-03 18:00:00
+M003,Festival Offer,Facebook,2026-09-02,Delhi,25000,65000,ACTIVE,2026-09-02 18:00:00
+M004,Bad Campaign,Google Ads,2026-09-02,Mumbai,abc,20000,ACTIVE,2026-09-02 18:00:00
